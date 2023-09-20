@@ -1,0 +1,33 @@
+
+p {
+    padding: 50px 0 50px 0;
+    width: auto;
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 3;
+    display: inline-block;
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: lightseagreen;
+}
+
+html {
+    background-color:lightgoldenrodyellow;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    color: antiquewhite;
+}
+
+img { 
+    background-color: #fff;
+    width: auto; 
+    height: auto; 
+    float: left;
+}
+
